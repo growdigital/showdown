@@ -4,6 +4,10 @@ A JavaScript port of Markdown
 
 ## Note
 
+I've just stripped out everything except the example, so that there's a simple 
+URL to use to show people Markdown converter in a web browser at 
+[growdigital.org/showdown](http://growdigital.org/showdown)
+
   > **Please note** that I, [Corey](https://github.com/coreyti), am not the author
   > of Showdown. Rather, I found it some time back at <http://attacklab.net/showdown/>
   > (website removed, see: <http://wayback.archive.org/web/*/http://attacklab.net/showdown>)
