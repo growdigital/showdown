@@ -1,4 +1,4 @@
-# Showdown [![build status](https://secure.travis-ci.org/coreyti/showdown.png)](http://travis-ci.org/coreyti/showdown)
+# Showdown
 
 A JavaScript port of Markdown
 
